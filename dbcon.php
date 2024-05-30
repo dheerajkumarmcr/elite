@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "transcen_admin");
+$con = mysqli_connect("localhost", "root", "", "transcen_admin");
 
 // Check connection
 if (mysqli_connect_errno())
