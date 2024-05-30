@@ -1,0 +1,177 @@
+[15-Feb-2024 09:52:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/admindashboard.php(42): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:52:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/admindashboard.php(42): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:53:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/members.php(41): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 09:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown MySQL server host 'localhost:3307' (-2) in /home/transcen/public_html/gyt/admin/dashboard-usercount.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/dashboard-usercount.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/includes/sidebar.php(4): include('/home/transcen/...')
+#2 /home/transcen/public_html/gyt/admin/admindashboard.php(42): include('/home/transcen/...')
+#3 {main}
+  thrown in /home/transcen/public_html/gyt/admin/dashboard-usercount.php on line 8
+[15-Feb-2024 10:00:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[15-Feb-2024 10:00:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[15-Feb-2024 11:47:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:09:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:09:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:11:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:12:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:19:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:32:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:33:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[19-Feb-2024 04:33:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[22-Feb-2024 05:57:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[22-Feb-2024 05:58:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[23-Feb-2024 10:21:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[23-Feb-2024 10:21:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[23-Feb-2024 10:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[24-Feb-2024 09:23:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[27-Feb-2024 05:11:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
+[27-Feb-2024 05:12:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/transcen/public_html/gyt/admin/actions/count-announcements.php:8
+Stack trace:
+#0 /home/transcen/public_html/gyt/admin/actions/count-announcements.php(8): mysqli_connect()
+#1 /home/transcen/public_html/gyt/admin/admindashboard.php(55): include('/home/transcen/...')
+#2 {main}
+  thrown in /home/transcen/public_html/gyt/admin/actions/count-announcements.php on line 8
